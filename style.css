@@ -1,0 +1,35 @@
+.card{
+    color: white;
+    
+    background-color: rgb(86, 86, 216);
+    border-radius: 10px;
+    box-shadow: 30px;
+    padding: 10px;
+    justify-content: center;
+    align-content: center;
+}
+button{
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+}
+hr{
+    margin: 5px;
+    background-color: black;
+}
+.buton{
+    background-color: indigo;
+    border-radius: 20px;
+}
+.col{
+    color: white;
+}
+.av{
+    color: white;
+}
+.ron{
+    background-color:fuchsia;
+}
+.rounded-circle{
+    background-color: aqua;
+}
